@@ -10,23 +10,23 @@ The purpose of this analysis is to analyze bikeshare data from Citibike in New Y
 This analysis might help help to answer few key question.
 
 
-  -> How many bike trips were recorded during the month of August?
+  - How many bike trips were recorded during the month of August?
   
-  -> How the proportion of short-term customers to annual subscribers has changed?
+  - How the proportion of short-term customers to annual subscribers has changed?
   
-  -> Who uses bikeshare programs?
+  - Who uses bikeshare programs?
   
-  -> What are the peak hours for bike trips during the month of August?
+  - What are the peak hours for bike trips during the month of August?
   
-  -> What is the breakdown of annual subscribers vs. short-term customers?
+  - What is the breakdown of annual subscribers vs. short-term customers?
   
-  -> What are the peak hours for bike rentals?
+  - What are the peak hours for bike rentals?
   
-  -> What is the length of time that bikes are checked out for all riders and genders?
+  - What is the length of time that bikes are checked out for all riders and genders?
   
-  -> What are the number of bike trips for all riders and genders for each hour of each day of the week?
+  - What are the number of bike trips for all riders and genders for each hour of each day of the week?
   
-  -> What are the number of bike trips for each type of user and gender for each day of the week?
+  - What are the number of bike trips for each type of user and gender for each day of the week?
   
  ## Results
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
