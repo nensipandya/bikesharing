@@ -4,8 +4,9 @@ An analysis of NYC CitiBike bikesharing data from August 2019, with Tableau.
 
 ## Overview
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-This Tableau story can be seen at https://public.tableau.com/app/profile/nensi.pandya/viz/bikesharings/Story2
-
+This Tableau story can be seen at [link to dashboard]([LINK GOES HERE](https://public.tableau.com/app/profile/nensi.pandya/viz/bikesharings/Story2
+))
+ 
 The purpose of this analysis is to analyze bikeshare data from Citibike in New York for presentation to convince investors that a bike-sharing program in Des Moines.
 This analysis might help help to answer few key question.
 
